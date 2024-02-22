@@ -1,0 +1,19 @@
+{
+  "home": "https://www.google.com",
+  "homepageElement": "#gb",
+  "searchInput": "#APjFqb",
+  "searchResultArea": "#search",
+  "weatherSearch": "Weather in Phuket Thailand{enter}",
+  "weatherTitleID": "#wob_loc",
+  "weatherTitleCopy": "Weather",
+  "weatherTempNumberID": "#wob_tm",
+  "weatherLocalTimeID": "#wob_dts",
+  "weatherdescriptionID": "#wob_dc",
+  "weatherTemperatureLabelID": "#wob_temp",
+  "weatherTemperatureLabelCopy": "Temperature",
+  "movieSearch": "The Matrix{enter}",
+  "movieTitleID": ".DoxwDb > .PZPZlf",
+  "movieTitleCopy": "The Matrix",
+  "movieInfoID": ".iAIpCb > :nth-child(2)",
+    "fail": "xyz"
+}
